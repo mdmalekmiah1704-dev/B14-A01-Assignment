@@ -31,7 +31,7 @@ This project was created as part of my frontend development learning journey. It
 
 🚀 Live Demo
 
-👉 
+👉 https://mdmalekmiah1704-dev.github.io/B14-A01-Assignment/
 
 📸 Screenshot
 <img width="2787" height="1496" alt="Screenshot 2026-07-12 at 1 51 19 AM" src="https://github.com/user-attachments/assets/11409669-b295-451c-92e6-069ebe2582cb" />
